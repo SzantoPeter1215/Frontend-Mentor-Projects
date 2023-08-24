@@ -8,7 +8,7 @@
       margin-left: auto;
       margin-right: auto;
       margin-top: 10%;
-      width: 20%;
+      width: 90%;
       padding: 20px 0;
       background-color: hsl(0, 0%, 100%);
       border-radius: 5%;
@@ -43,7 +43,7 @@
       color: hsl(220, 15%, 55%);
     }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
   .container {
     display: block;
     margin-left: auto;
